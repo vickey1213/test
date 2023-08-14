@@ -1,0 +1,5 @@
+{{#user}
+Name: Vickey
+Skills: HTML, CSS, JS, React.js
+Email: test@gmail.com
+{{/user}}}
